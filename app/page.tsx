@@ -141,7 +141,7 @@ export default function TerraViajes() {
               >
                 <div className="relative">
                   <img
-                    src={paquete.imagen || "/placeholder.svg"}
+                    src={paquete.imagen || "/fondo.png"}
                     alt={paquete.titulo}
                     className="w-full h-48 object-cover"
                   />
